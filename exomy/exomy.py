@@ -8,6 +8,32 @@ from picamera2 import Picamera2
 import cv2
 from flask import Flask, Response
 
+# Auto-detect gamepad event file instead of hardcoding event9
+import glob
+
+def find_gamepad():
+    candidates = sorted(glob.glob("/dev/input/event*"))
+    for path in candidates:
+        try:
+            dev = InputDevice(path)
+            name = dev.name.lower()
+            # Match common gamepad names (PS/Xbox/Generic USB)
+            if ("gamepad" in name or 
+                "controller" in name or 
+                "joystick" in name or 
+                "xbox" in name or 
+                "playstation" in name or 
+                "wireless" in name or 
+                "usb game" in name):
+                print(f"🎮 Detected controller at {path} ({dev.name})")
+                return path
+        except:
+            pass
+    print("⚠️ No gamepad detected — falling back to /dev/input/event0")
+    return "/dev/input/event0"
+
+
+
 # ================================
 # CAMERA & FLASK SETUP (Script 2)
 # ================================
@@ -79,7 +105,7 @@ class PCA9685:
         self.setPWM(channel, 0, pulse)
 
 # Configuration
-DEVICE_PATH = "/dev/input/event9"
+DEVICE_PATH = find_gamepad()
 
 continuous_channels = list(range(1, 7))   # velocity
 position_channels   = list(range(7, 13))  # steering
