@@ -1,5 +1,6 @@
 # ExoMy Repozitář
 Vítejte v repozitáři projektu ExoMy, vytvořen univerzitním týmem CTU Robotics z ČVUT! 
+
 ExoMy je 3D-tištěný rover, inspirovaný ESA ExoMy konstrukcí, navržený jako cenově dostupná robotická platforma pro nadšence, pedagogy a výzkumníky. Najdete zde kompletní dokumentaci, která vás provede celým procesem od 3D tisku dílů, přes sestavení podvozku a elektroniky až po instalaci software. Veškerý hardware i software jsou open-source a byly navrženy s důrazem na jednoduchost použití a spolehlivost.
 
 Design roveru je inspirován evropským marsovským roverem Rosalind Franklin z mise ExoMars a napodobuje jeho nejcharakterističtější vlastnosti.
