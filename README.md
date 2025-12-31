@@ -11,13 +11,14 @@ Cílem projektu je umožnit každému postavit si vlastní malé šesti-kolové 
 
 
 # Obsah Repozitáře ExoMy
-## <a href="http://www.youtube.com/@planetum255">Videonávody</a>
-Na YouTube kanálu Planetum naleznete návody, jak krok za krokem sestavit a spustit vlastního ExoMy. Návody jsou rozděleny na 7 lekcí, které jsou interpretovány jako videonávody a jsou doplněny obsahem v záložce Wiki.
+## <a href="https://www.youtube.com/@eserocz/featured">Videonávody</a>
+Na YouTube kanálu ESERO ČR naleznete návody, jak krok za krokem sestavit a spustit vlastního ExoMy. Návody jsou rozděleny na 7 lekcí, které jsou interpretovány jako videonávody a jsou doplněny poznámkami v záložce Wiki.
 ## <a href="https://github.com/CTU-Robotics/ExoMy/wiki">Wiki</a>
-Wiki obsahuje veškerou dokumentaci a poznámky, včetně odkazů na jednotlivé videonávody ke každé lekci a další potřebné materiály.
+Wiki obsahuje veškerou dokumentaci a poznámky, včetně odkazů na jednotlivé videonávody ke každé lekci a další potřebné materiály.   
+Abyste začali s prací na projektu Exomy, pokračujte právě ve Wiki, kde se dozvíte, co a jak.
 ## <a href="https://github.com/CTU-Robotics/ExoMy/tree/master">Code</a>
-V záložce Code je skript pro spuštění sestaveného ExoMy, aby jej šlo ovládat pomocí gamepadu a také skript pro zprovoznění kamery.
-Ve Wiki je vysvětleno, jak tento software používat.
+V záložce Code je skript pro spuštění sestaveného ExoMy a zprovoznění kamery, aby jej šlo ovládat pomocí gamepadu.
+Ve Wiki je dále vysvětleno, jak tento software používat a vše k tomu potřebné.
 
 <p align="center">
 <img width="450" height="auto" alt="ExoMy" src="https://github.com/user-attachments/assets/c93768e0-ab1c-4c05-8226-1a4855675c51" />
