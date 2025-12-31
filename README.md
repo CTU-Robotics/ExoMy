@@ -16,7 +16,7 @@ Na YouTube kanálu ESERO ČR naleznete návody, jak krok za krokem sestavit a sp
 ## <a href="https://github.com/CTU-Robotics/ExoMy/wiki">Wiki</a>
 Wiki obsahuje veškerou dokumentaci a poznámky, včetně odkazů na jednotlivé videonávody ke každé lekci a další potřebné materiály.   
 Abyste začali s prací na projektu Exomy, pokračujte právě ve Wiki, kde se dozvíte, co a jak.
-## <a href="https://github.com/CTU-Robotics/ExoMy/tree/master">Code</a>
+## <a href="https://github.com/CTU-Robotics/ExoMy/tree/master/exomy">Code</a>
 V záložce Code je skript pro spuštění sestaveného ExoMy a zprovoznění kamery, aby jej šlo ovládat pomocí gamepadu.
 Ve Wiki je dále vysvětleno, jak tento software používat a vše k tomu potřebné.
 
