@@ -12,7 +12,7 @@ Cílem projektu je umožnit každému postavit si vlastní malé šesti-kolové 
 
 # Obsah Repozitáře ExoMy
 ## <a href="https://youtube.com/playlist?list=PLAjXxjEEG-mB8Y8EWyBYSG42KXqzHu3Rj&si=PwOOCygeIuXhSelg">Playlist - ESERO</a>
-Na YouTube kanálu ESERO ČR naleznete návody, jak krok za krokem sestavit a spustit vlastního ExoMy. Návody jsou rozděleny na 7 lekcí, které jsou interpretovány jako videonávody a jsou doplněny poznámkami v záložce Wiki.
+Na YouTube kanálu ESERO ČR naleznete návody, jak krok za krokem sestavit a spustit vlastního ExoMy. Návody jsou rozděleny do 8 lekcí, které jsou interpretovány jako videonávody a jsou doplněny poznámkami v záložce Wiki.
 ## <a href="https://github.com/CTU-Robotics/ExoMy/wiki">Wiki</a>
 Wiki obsahuje veškerou dokumentaci a poznámky, včetně odkazů na jednotlivé videonávody ke každé lekci a další potřebné materiály.   
 Abyste začali s prací na projektu Exomy, pokračujte právě ve Wiki, kde se dozvíte, co a jak.
