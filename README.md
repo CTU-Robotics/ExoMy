@@ -1,5 +1,5 @@
 # ExoMy Repozitář
-Vítejte v repozitáři projektu ExoMy, vytvořen univerzitním týmem CTU Robotics z ČVUT pro vzdělávací kancelář ESA pro Českou republiku,<a href="https://www.eserocz.cz"> ESERO ČR</a>.
+Vítejte v repozitáři projektu ExoMy, vytvořen univerzitním týmem CTU Robotics z ČVUT pro vzdělávací kancelář ESA pro Českou republiku, <a href="https://www.eserocz.cz">ESERO ČR</a>.
 
 ExoMy je 3D-tištěný rover, inspirovaný ESA ExoMy konstrukcí, navržený jako cenově dostupná robotická platforma pro nadšence, pedagogy a výzkumníky. Najdete zde kompletní dokumentaci, která vás provede celým procesem od 3D tisku dílů, přes sestavení podvozku a elektroniky až po instalaci software. Veškerý hardware i software jsou open-source a byly navrženy s důrazem na jednoduchost použití a spolehlivost.
 
