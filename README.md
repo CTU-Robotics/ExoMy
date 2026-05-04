@@ -21,7 +21,7 @@ V záložce Code je skript pro spuštění sestaveného ExoMy a zprovoznění ka
 Ve Wiki je dále vysvětleno, jak tento software používat a vše k tomu potřebné.
 
 <p align="center">
-<img width="450" height="auto" alt="ExoMy" src="https://github.com/user-attachments/assets/c93768e0-ab1c-4c05-8226-1a4855675c51" />
+<img width="450" height="auto" alt="Exomy" src="https://github.com/user-attachments/assets/a22c77e1-4b8d-4595-8db1-060c9006237b" />
 </p>
 
 <i>ExoMy byl navržen <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Planetary_Robotics_Laboratory">Laboratoří planetární robotiky ESA</a>, která se specializuje na vývoj mobilních platforem a navigačních systémů misí ESA zaměřených na planetární průzkum.</i>
