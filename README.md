@@ -24,3 +24,4 @@ Ve Wiki je dále vysvětleno, jak tento software používat a vše k tomu potře
 <img width="450" height="auto" alt="ExoMy" src="https://github.com/user-attachments/assets/c93768e0-ab1c-4c05-8226-1a4855675c51" />
 </p>
 
+<i>ExoMy byl navržen Laboratoří planetární robotiky ESA, která se specializuje na vývoj mobilních platforem a navigačních systémů misí ESA zaměřených na planetární průzkum.</i>
